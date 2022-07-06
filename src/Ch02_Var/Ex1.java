@@ -15,3 +15,5 @@ public class Ex1 {
         System.out.println(age);
     }
 }
+
+//간단한 변수 출력
